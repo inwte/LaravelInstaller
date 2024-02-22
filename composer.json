@@ -1,5 +1,5 @@
 {
-    "name": "smartervision/laravel-installer",
+    "name": "inwte/laravel-installer",
     "description": "Laravel web installer",
     "license": "MIT",
     "authors": [
@@ -17,7 +17,7 @@
         }
     ],
     "require": {
-        "php": ">=7.0.0",
+        "php": "^7.3 || ^ 8.0",
         "ext-curl": "*",
         "ext-json": "*"
     },
